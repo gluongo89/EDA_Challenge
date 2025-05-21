@@ -102,3 +102,8 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
    ```Bash
    python.exe -m pip install --upgrade pip
    ```
+
+   ### Where to find the analysis
+The notebook with the code to clean the data frame is EDA_Assignment_info_and_cleaning.ipynb
+
+The notebook with the data analysis and plot is EDA_Assignment_Analysis_plot.ipynb
